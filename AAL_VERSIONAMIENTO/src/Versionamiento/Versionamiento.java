@@ -17,6 +17,6 @@ public class Versionamiento {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        JOptionPane.showMessageDialog(null, "OK EN EL VERSIONAMINETO");
+        JOptionPane.showMessageDialog(null, "OK EN EL VERSIONAMINETO desde el repositorio web");
     }
 }
