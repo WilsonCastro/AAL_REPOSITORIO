@@ -15,5 +15,6 @@ public class AAL_VERSIONAMIENTO {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        //podemos hacer un commit remoto entre dos repositorios remotos
     }
 }
